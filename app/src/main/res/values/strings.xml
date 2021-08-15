@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SearchGithubUser</string>
+    <string name="search_hint">Searching</string>
+    <string name="get_result">Search</string>
+    <string name="loading_item">…</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="no_service">Service not found</string>
+    <string name="no_internet">Please help check your internet and try again.</string>
+    <string name="timeout">Request timeout</string>
+    <string name="no_info">N/A</string>
+    <string name="repos">%d public repositories</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
